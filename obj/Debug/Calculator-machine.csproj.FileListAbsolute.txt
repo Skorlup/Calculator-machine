@@ -1,0 +1,10 @@
+C:\Users\z_m_1\Try2\Calculator-machine\Calculator-machine\bin\Debug\Calculator-machine.exe.config
+C:\Users\z_m_1\Try2\Calculator-machine\Calculator-machine\bin\Debug\Calculator-machine.exe
+C:\Users\z_m_1\Try2\Calculator-machine\Calculator-machine\bin\Debug\Calculator-machine.pdb
+C:\Users\z_m_1\Try2\Calculator-machine\Calculator-machine\obj\Debug\Calculator-machine.csprojAssemblyReference.cache
+C:\Users\z_m_1\Try2\Calculator-machine\Calculator-machine\obj\Debug\Calculator_machine.Form1.resources
+C:\Users\z_m_1\Try2\Calculator-machine\Calculator-machine\obj\Debug\Calculator_machine.Properties.Resources.resources
+C:\Users\z_m_1\Try2\Calculator-machine\Calculator-machine\obj\Debug\Calculator-machine.csproj.GenerateResource.cache
+C:\Users\z_m_1\Try2\Calculator-machine\Calculator-machine\obj\Debug\Calculator-machine.csproj.CoreCompileInputs.cache
+C:\Users\z_m_1\Try2\Calculator-machine\Calculator-machine\obj\Debug\Calculator-machine.exe
+C:\Users\z_m_1\Try2\Calculator-machine\Calculator-machine\obj\Debug\Calculator-machine.pdb
